@@ -1,19 +1,23 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Aug 2023 - Mar 2024",
+            "cardSubtitle":"Henry",
+            "cardDetailedText": "Full Stack Developer",
+            "icon": {"src": "images/education/henry.png"}
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jan 2007 - Nov 2007",
+            "cardSubtitle":"Escuela de Policia Juan Vucetich",
+            "cardDetailedText": "Tecnico Superior en Seguridad Publica",
+            "icon": {"src": "images/education/escudo.png"}
+        },
+        {
+            "title": "Jan 2019 - present",
+            "cardSubtitle":"Universidad Nacional de Lomas de Zamora",
+            "cardDetailedText": "Abogacia",
+            "icon": {"src": "images/education/universidad.png"}
         }
+        
     ]
 }

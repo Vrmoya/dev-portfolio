@@ -13,8 +13,8 @@ const styles = {
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
-    fontSize: '1.2em',
-    fontWeight: 500,
+    fontSize: '1em',
+    fontWeight: 1500,
   },
   introImageContainer: {
     margin: 10,

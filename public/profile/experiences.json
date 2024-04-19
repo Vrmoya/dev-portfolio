@@ -1,33 +1,39 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Vigilador",
+            "subtitle": "Brito S.A",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Desempeño la tarea de Vigilador en la empresa Bandex"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Full Stack Developer(Experiencia Académica)",
+            "subtitle": "Henry",
+            "workType": "Part-timer",
             "workDescription": [
-                "Worked on abc."
+                "Tarea realizada en Bootcamp de Henry, donde llevamos a cabo proyectos web, aprendiendo y utilizando las tecnologías: Javascript, React, Redux, Css, Node Js, HTML, Sequelize, PostgreSQL, Express entre otros."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "08-2023 – 03/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Policia",
+            "subtitle": "Ministerio de Seguridad de la Provincia de Buenos Aires",
+            "workType": "Full-time",
+            "workDescription": [
+                "Tareas de prevencion, investigacion criminal y ayuda a la sociedad"
+            ],
+            "dateText": "11-2007 – 03/2023"
+        },
+        {
+            "title": "Mantenimiento de Cyber",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Armados de Pc, clonación de equipos, actualización de software, mantenimiendo de hardware"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "2001 – 2005"
         }
     ]
 }
