@@ -2,7 +2,7 @@
     "projects" : [
       
         {
-            "image" : "images/projects/logo.png",
+            "image" : "images/projects/logo3.png",
             "title": "Innovatech - Ecommerce",
             "bodyText": "Realizamos un e-commerce de tecnologia, en el cual implementamos, pasarelas de pago como mercado pago, autenticaciones de terceros como Google y Github utilizando tecnologias como Passport,JWT, BCRYPT; asi tambien hemos utilizado el servicio de respuesta inmediata, tanto el IPN(instant payment notification) de mercado pago, como las notificaciones a través de nodemailer. La realización del mismo se llevó a cabo utilizando Javascript, React, Redux, Postgres, Sequelize, Node Js, Vite, CSS.",
             "links": [
