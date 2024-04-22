@@ -62,7 +62,8 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: center;
+  justify-content: start;
+  margin-top: 4em;
   align-items: center;
 }
 
