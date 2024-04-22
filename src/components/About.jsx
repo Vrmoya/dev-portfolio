@@ -14,7 +14,7 @@ const styles = {
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
     fontSize: '1em',
-    fontWeight: 1500,
+    fontWeight: 500,
   },
   introImageContainer: {
     margin: 10,
