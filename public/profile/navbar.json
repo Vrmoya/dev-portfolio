@@ -18,16 +18,16 @@
             "href": "/skills"
         },
         {
-            "title": "Educacion",
+            "title": "Proyectos",
+            "href": "/projects"
+        },
+        {
+            "title": "Educación",
             "href": "/education"
         },
         {
             "title": "Experiencia",
             "href": "/experience"
-        },
-        {
-            "title": "Proyectos",
-            "href": "/projects"
         },
         {
             "title": "CV",

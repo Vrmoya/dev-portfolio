@@ -49,9 +49,9 @@ function Home() {
         </div>
         <Social />
         <br />
-        <h4>Contact:</h4>
+        <h4>Contacto:</h4>
         <p>viclauti@gmail.com</p>
-        <p>Phone: +54 9 1140397782</p>
+        <p>Telefono: +54 9 1140397782</p>
       </div>
     </Fade>
   ) : <FallbackSpinner />;

@@ -8,14 +8,14 @@
         },
         {
             "title": "Jan 2007 - Nov 2007",
-            "cardSubtitle":"Escuela de Policia Juan Vucetich",
-            "cardDetailedText": "Tecnico Superior en Seguridad Publica",
+            "cardSubtitle":"Escuela de Policía Juan Vucetich",
+            "cardDetailedText": "Técnico Superior en Seguridad Pública",
             "icon": {"src": "images/education/escudo.png"}
         },
         {
             "title": "Jan 2019 - present",
             "cardSubtitle":"Universidad Nacional de Lomas de Zamora",
-            "cardDetailedText": "Abogacia",
+            "cardDetailedText": "Abogacía",
             "icon": {"src": "images/education/universidad.png"}
         }
         
