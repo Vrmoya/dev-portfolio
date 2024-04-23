@@ -58,7 +58,7 @@ Using NPM: Simply run the below commands.
 
 ```bash
 # Install dependencies
-$ npm install --legacy-peer-deps
+$ npm install --force
 
 # Force audit fix
 $ npm audit fix --force
