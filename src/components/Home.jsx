@@ -49,8 +49,9 @@ function Home() {
         </div>
         <Social />
         <br />
-        <h4>Contacto:</h4>
+        <h3>Contacto:</h3>
         <p>viclauti@gmail.com</p>
+        <p>victormoya.dev@gmail.com</p>
         <p>Telefono: +54 9 1140397782</p>
       </div>
     </Fade>
